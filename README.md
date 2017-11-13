@@ -1,2 +1,2 @@
-# pythonExercise
+# Fibonacci
 Exercises in python
